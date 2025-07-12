@@ -1,0 +1,5 @@
+# Ignore secret files
+.env
+
+# Ignore virtual environment
+venv/

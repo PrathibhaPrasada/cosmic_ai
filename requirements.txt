@@ -1,0 +1,11 @@
+langchain
+openai
+faiss-cpu
+PyPDF2
+tiktoken
+unstructured
+sentence-transformers
+streamlit
+python-dotenv
+pytesseract
+pillow

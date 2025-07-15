@@ -4,10 +4,3 @@
 # Ignore virtual environment
 venv/
 
-#Ignore pdf , jpg and other files extension in data 
-.jpg
-.jpeg
-.pdf
-.tiff
-.bmp
-.png

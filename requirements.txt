@@ -9,3 +9,4 @@ streamlit
 python-dotenv
 pytesseract
 pillow
+pinecone-client

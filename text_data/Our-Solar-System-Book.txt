@@ -1,0 +1,1501 @@
+--- Page 2 (text layer) ---
+ 
+ 
+ 
+This graphic of the solar s ystem was made using real images of the planets  and comet Hale -Bopp . It is not 
+to scale!  To show a scale model of the so lar system with the Sun being 1cm would require  about  64 meters  
+of paper!                                                                                              Image credit:  Maggie Mosetti, NASA  
+ 
+This book was produced to commemorate the Year of the Solar System (2011 -2013, a martian year), 
+initiated by NASA.  See http://solarsystem.nasa.gov/yss . 
+ Many images and captions have been adapted from NASA’s  “From Earth to the Solar System” (FETTSS) 
+image collection.  See http://fettss.arc.nasa.gov/ .   Additional imagery and captions compiled by Deborah 
+Scherrer, Stanford University, California, USA.  
+ 
+Special thanks to the people of Suntrek  (www.suntrek.org ,) who helped with the 
+final editing and allowed me to use Alphonse Sterling’s awesome photograph of a solar eclipse!  
+ 
+ 
+ 
+ 
+Cover Images:  Solar System: NASA/JPL ; YSS logo: NASA ;  Sun: Venus Transit from NASA SDO/AIA 
+ 
+ 
+ 
+© 2013- 2020 Stanford University; permission given to use for educatio nal and non- commerici al purposes .
+
+
+--- Page 3 (text layer) ---
+Table of Contents 
+ 
+Why Is the Sun Green and Mars Blue? ............................................................................... 4	  
+Our Sun – Source of Life ..................................................................................................... 5	  
+Solar Activity ................................................................................................................... 6	  
+Space Weather ................................................................................................................. 9	  
+Mercury ............................................................................................................................. 11	  
+Venus ................................................................................................................................. 13	  
+Earth .................................................................................................................................. 15	  
+Earth’s Moon ................................................................................................................. 17	  
+Meteors and Impacts ...................................................................................................... 18	  
+Mars ................................................................................................................................... 19	  
+Mars’s Moons – Phobos, Deimos .................................................................................. 22	  
+Asteroid Belt .................................................................................................................. 23	  
+Jupiter ................................................................................................................................ 25	  
+Jupiter’s Moons, including Io, Europa, Ganymede, Callisto ........................................ 26	  
+Io ................................................................................................................................ 27	  
+Europa ........................................................................................................................ 27	  
+Ganymeade ................................................................................................................ 28	  
+Callisto ....................................................................................................................... 28	  
+Saturn ................................................................................................................................. 29	  
+Saturn’s Moons, including Titan, Enceladus, Iapetus, Hyperion, Phoebe .................... 31	  
+Titan (and Tethys) ..................................................................................................... 31	  
+Enceladus ................................................................................................................... 32	  
+Iapetus ........................................................................................................................ 32	  
+Hyperion .................................................................................................................... 33	  
+Phoebe ....................................................................................................................... 34	  
+Uranus ................................................................................................................................ 35	  
+Uranus’s Moons ............................................................................................................. 36	  
+Neptune .............................................................................................................................. 38	  
+Neptune’s Moons, including Triton .............................................................................. 39	  
+Triton ......................................................................................................................... 39	  
+The Kuiper Belt, Dwarf Planets, Trans -Neptunian Objects, and Comets ......................... 40	  
+Dwarf Planets ................................................................................................................ 40	  
+Trans-Neptunian Objects ............................................................................................... 41	  
+Comets ........................................................................................................................... 42	  
+Interplanetary Dust Particles  ......................................................................................... 43	  
+The Sun’s Heliosphere ...................................................................................................... 44	  
+Where Are We? ................................................................................................................. 45	  
+Our Immense Universe ...................................................................................................... 46	  
+
+--- Page 4 (text layer) ---
+Our Solar System  
+ 4 Getting Starte d 
+ 
+  
+ 
+Why I s the Sun G reen  
+and Mars B lue?  
+ 
+ 
+Human eyes see only visible light.   Visible light is made up of all the colors of the 
+rainbow (sometimes labeled red, orange, yellow, green, blue, violet) which, when 
+combined, look white to our eyes.  But there are many other, invisible forms of light, i.e. 
+the electromagnetic spectrum – radio, microwaves, infrared, ultraviolet, X -rays, gamma 
+rays.  The various parts of the electromagnetic spectrum are differentiated by their 
+wavelengths – radio wavelengths can be kilometers long and gamma ray wavelengths 
+smaller than atoms. 
+ 
+Many scientific instruments are designed to detect infrared, ultraviolet, X -ray, or other 
+wavelengths.  These invisible forms of light have no colors associated with them.  So 
+scientists have their computers assign unusual colors (like neon orange) to their images, 
+to allow them to observe details.  The green Sun, above left, is a photo of the Sun taken in 
+extreme ultraviolet light, which our eyes cannot see.  The scientists have artificially  
+colored the ultraviolet data green.  We call that “false color ”. 
+ Scientists also use false color to indicate additional information.  The image of Mars, 
+above right, shows the concentration of methane in Mars’s atmosphere.  Scientists have 
+color-coded the highest concentrations of methane as red, the lowest in blue, to help us 
+and them understand the data.  Many of the images in this collection are likewise false 
+colored.  We have tried to highlight which images come from visible l ight and which 
+represent false color or color-coded data.  
+Image Credits:  Green Sun NAS A/SDO/AIA; Blue Mars – NASA/JPL  
+
+
+--- Page 5 (text layer) ---
+  Our Sun    
+ 5 Our Sun – Source of Life 
+ 
+  
+A total solar eclipse, as observed from Earth.  
+Image Credit : Alphonse Sterling and the Suntrek website ( www.suntrek.org ) 
+ Used with permission  
+ 
+The Sun is our very own star, at the center of our solar system.  The Sun is scientifically 
+designated as a yellow dwarf  (because of its place on the HR diagram1).  However, our Sun 
+is neither yellow nor a dwarf.  The Sun appears white to the human eye -- it only looks 
+yellow or orange when its rays are being scattered by Earth’s atmosphere during sunrise 
+and sunset.  And it is now thought to be brighter and larger than about 85% of the stars in 
+the Milky Way galaxy, most of which are red dwarfs (stars with low mass that shine in a 
+relatively cool red). 
+ 
+The Sun consists of hot plasma (a state of matter where electrons have been stripped from 
+their atoms) interwoven with magnetic fields. It has a diameter about 109 times that of 
+of Earth, and a million Earths could fit inside it! Its mass accounts for about 99.86% of the 
+total mass of the solar system. About three-quarters of the Sun consists of hydrogen; the rest is mostly helium. Less than 2% consists of heavier elements, including oxygen, 
+carbon, gold, iron, and others. Many of these elements were originally forged in supernova 
+explosions. So we, and everything in our solar system, are made of “star stuff”
+2.   
+ Every second, the Sun fuses 614 million metric tons of hydrogen into 609 metric tons of 
+helium in its core.   The difference is converted into gamma rays that eventually get  
+                                                
+1 The Hertzsprung- Russell diagram plots the temperature of stars against their luminosity/brightness.  See  
+https://astronomy.swin.edu.au/cosmos/H/Hertzsprung -Russell+Diagram  
+2 Quote from Ca rl Sagan  
+
+
+--- Page 6 (text layer) ---
+Our Solar System  
+ 6 radiated at the solar surface as lower-energy 
+photons, primarily visible light.  The Sun's 
+hot atmosphere, called the corona, continuously 
+expands in space creating the solar wind, a stream of 
+charged particles that extends beyond the solar 
+system. The bubble in the interstellar 
+medium formed by the solar wind, called 
+the heliosphere, is the largest continuous structure in 
+the solar system.   
+Image Credit:  ESA/ NASA’s SOHO Mission   (false color)  
+ 
+Solar Activity  
+Our Sun is a dynamic, active, and constantly changing star.  Solar activity is driven by 
+intense magnetic fields, generated deep within the solar interior then buoyantly rising up 
+through its surface. Plasma caught in the magnetic field lines allows us to see these fields, 
+as in the previous composite image.                          
+ 
+ 
+Visible light image of the Sun  
+Image credit:  NASA SDO/HMI  
+  
+Solar magnetic fields  
+Image Credit:  NASA SDO /HMI 
+On the left is a true color image of the Sun.  The dark splotches are called sunspots.  The 
+image on the right, taken at the same time, is a map of the magnetic fields on the Sun.  
+White indicates a positive field, and black a negative one (grey indicates little or no field) .  
+Note how the sunspots are associated with the magnetic fields – most activity on the Sun 
+is a result of complex magnetic fields!  
+ 
+
+
+--- Page 7 (text layer) ---
+  Our Sun  
+ 7  
+Image credit:  Jack Newton  (false color)  
+  
+Image Credit:  Scharmer and K. Langhans, ISP Royal 
+Swedish Aca demy of Sciences. (false color ) 
+ 
+Sunspots are temporary regions of reduced surface temperature caused by increa sed 
+magnetic activity. The Sun goes through a cycle of about 11 years when it has a period of many sunspots (solar maximum), then few or no sunspots (solar minimum).   Sunspots or 
+similar magnetically active regions  are the source of solar storms. 
+ 
+The Sun’s magnetic fields are constantly in 
+motion.  When solar magnetic fields twist, 
+break, and then reconnect, they can release 
+a tremendous amount of energy.  We see 
+these as solar flares, like the white 
+brightening near the center of the image on 
+the right.  Solar flares eject radiation and fast moving particles that can damage 
+satellites, disrupt communications, and 
+give high-flying planes and astronauts 
+additional doses of radiation.  Finding ways 
+to protect astronauts from solar flares is 
+one of the biggest challenges of going back 
+to the Moon or to Mars.                               
+ 
+ 
+Image Credit:  NASA/SDO (false color)   
+ 
+
+
+--- Page 8 (text layer) ---
+Our Solar System  
+ 8  ESA3/NASA’s Solar and Heliospheric 
+Observatory (SOHO) produced the 
+spectacular portrait (left) of our star . Featured 
+is a huge, handle-shaped prominence—a cloud of relatively cooler plasma held aloft 
+high in the corona (the Sun’s atmosphere) by 
+a large magnetic field that is rooted in the 
+solar surface. A typical prominence extends 
+over thousands of kilometers, and can last 
+from minutes to months. 
+ 
+ 
+Image Credit:  ESA/ NASA’s  SOHO spacecraft  (false  colors)  
+ 
+ 
+Sometimes prominences erupt into coronal mass 
+ejections (CMEs), as in the image on the right. These 
+huge blasts of charged plasma, traveling at 1400 
+km/s, can impact objects  of the solar system. Luckily, 
+Earth’s magnetic field acts as a shield, partially protecting us.  But CME impacts on Earth may still 
+generate effects such as aurora, satellite drag, power 
+outages, communications disruptions, and GPS 
+interference.
+    
+  
+ Image Credit:  NASA/SDO/AIA   (false colors)  
+ 
+     
+Image Credi ts: NASA/Stanford- Lockheed Institute for Space Research’s TRACE Team  (false color)  
+ 
+A close-up view of the Sun's surface, observed by NASA’s Transition Region and 
+Coronal Explorer (TRACE) mission, shows vast loop structures made of superheated 
+plasma trapped in magnetic field lines.  About 10 Earths could fit across any one of these 
+loops! These areas of solar activity can contain multiple loops, often in “tunnel” 
+                                                
+3 The European Space Agency  
+
+
+--- Page 9 (text layer) ---
+  Our Sun  
+ 9 formations, that can persist for weeks. The plasma reaches temperatures of mor e than 
+1,000,000 C° — whereas the Sun’s surface temperature averages only about 5500 C°! 
+Flares and CMEs usually erupt from active regions such as these. 
+Space Weather 
+ 
+       
+ Image Credit s:  NASA       (Definitely n ot to scale!)  
+ 
+Space weather refers to the affect the Sun has on the Earth and rest of the solar system.  
+The solar wind is a fairly constant stream of charged particles , mostly high-energy 
+electrons and protons, ejected from the upper atmosphere of the Sun. These particles can 
+escape the Sun's gravity because of their high kinetic energy and the high temperature of 
+the corona. As the solar wind buffets the Earth’s magnetic field, it distorts it into a long 
+oval, as shown in the (not-to-scale) image above.  
+ 
+Radiation storms and CMEs have the potential to seriously affect Earth and our modern 
+technology.  Besides triggering beautiful aurorae, these solar storms can damage 
+satellites, disrupt power grids and electrical systems, interfere with cell phones and other 
+communications, and disturb animal movements. They can even threaten astronauts and 
+high-flying airplanes with their radiation!  Space weather affects not only Earth but the 
+other planets as well.  
+Our Eye on the Sky – Launched in February 
+2010, NASA’s Solar Dynamics Observatory 
+(SDO) mission is designed to study the Sun’s 
+variability and its effect on space w eather, with 
+the goal of eventually predicting dangerous solar activity. 
+                                  
+                                                                         NASA’s SDO spacecraft   
+ 
+
+
+--- Page 10 (text layer) ---
+Our Solar System  
+ 10  
+Composite image taken by AIA instruments aboard NASA’s  
+SDO spacecraft  (false colors)   
+Our Sun was formed in a nebula of gas 
+and dust about 4.5 billion years ago.  It 
+will shine for another 5 billion years 
+before it expands into a red giant, 
+eventually releasing what is left of its 
+gas, and spending the last of its years as 
+a dwindling white dwarf. 
+ 
+   
+ 
+ 
+Image credits:  Red giant by B.  Jacobs, from Wiki  Commons; 
+White dwarf - NASA 
+ 
+ 
+ 
+ 
+Sun Details 
+Diameter  1,391,000 km Rotational 
+Period  ~27 days at equator; 
+more at poles  
+Temperature  Core: ~1.5 ×107C° 
+Photosphere:  5,500C °  
+Corona : ~5×106C° Atmosphere  85% Hydrogen  
+23% Helium  
+2% Others 
+Number of planets  8 Axial Tilt   7.5 degrees  
+Mass  2×1030 kilograms Magnetic Field  Dipole plus surface 
+and subsurface fields  
+
+
+--- Page 11 (text layer) ---
+  Our Sun    
+ 11 Mercury  
+Land of Craters 
+ 
+ 
+Image Credit:  NASA   
+ Mercury is extreme. Of all the planets in our 
+solar system, it is the smallest, it has the 
+oldest surface, it is closest to the Sun, it has 
+the largest daily variations in surf ace 
+temperature, and, until recently  it was the 
+least explored. NASA’s Mercury Surface, 
+Space Environment, Geochemistry, and 
+Ranging (MESSENGER) spacecraft, which 
+inserted into Mercury orbit in March 2011 
+has changed all that! It has revealed rocky 
+Mercury’s geologic history, the nature of its 
+weak magnetic field, the structure of its 
+core, and the composition of its thin 
+exosphere.  MESSENGER has even found 
+hints of water at Mercury’s dark poles. 
+ 
+Image Credit: NASA/Johns Hopkins University Applie d Physics 
+Laboratory/Ca rnegie Institution of Washington  
+  
+Image Credit:  NASA  
+What is the source of the radiating streaks in the image on the left? It is the impact crater 
+Hokusai, seen at the top of the frame, named for Japanese artist Katsushika Hokusa i. Its 
+impressive ray system extends for as far as 1000km. Such rays are formed when an impact excavates material from beneath the surface and explodes  it outward from the crater. Rays 
+such as these fade over time as they are exposed to the harsh space environment. Hence, craters with bright rays are thought to be relatively young.  
+ 
+Above right: At a diameter of 100km, the crater Atget is one of the largest craters within the 
+Caloris Basin (see next image). 
+
+
+--- Page 12 (text layer) ---
+Our Solar System  
+ 12  
+Image Credit: NASA/Johns Hopkins University Applied Physics 
+Laboratory/Arizona State University/Carnegie Institution of 
+Washington  
+(false colors)  The image on the left features  the sprawling 
+Caloris basin, one of the solar system's 
+largest impact basins. Created during the 
+early history of the solar system by the 
+impact of a large asteroid-size d body, the 
+basin spans about 1500 kilometers and is seen in yellowish hues in this enhanced 
+color mosaic. The image data is from the 
+January 14th flyby of the MESSENGER  
+spacecraft. Orange splotches around the basin's perimeter are now thought to be 
+volcanic vents, new evidence that Mercury's 
+smooth plains are indeed lava flows. 
+  
+Scientists often add false color to images to 
+help them see finer detail. Note how much 
+easier it is to study this image rather than 
+the ones on the previous page. 
+ 
+The image below shows the transit 
+(crossing) of Mercury in front of the Sun’s 
+disk on 8 November 2006. (Mercury is 
+about 57 million km away from the Sun.) 
+ 
+ 
+ 
+ 
+Mercury Details  
+Diameter  4879 km Rotational Period  59 days  
+Distance from Sun  57,910,000 km  (.4 AU ) Orbital Period  88 days 
+Number Moons  0 Atmosphere  tenuous  
+Temperature  -160C° to 430C ° Axial Tilt  .04 degrees  
+Mass  3.30 x 1023kg 
+About 5% of Earth’s  Magnetic Field  tiny 
+ 
+ 
+ 
+
+
+--- Page 13 (text layer) ---
+  Venus  
+ 13 Venus  
+Heaven or Hell? 
+ 
+ 
+Image Credit:  NASA  (true color)   
+Image Credit: NASA/JPL -Caltech  (false color)  
+ 
+Venus, second planet from the Sun, has roughly the same size, mass, density, and 
+composition as Earth. Until the 1960s, scientists and science fiction writers speculated that 
+Venus might be very Earth-like, and home to lush, tropical forests. That view changed when 
+new observations confirmed a superheated surface with  temperatures over 400C and 
+atmospheric pressures nearly a hundred times that of Earth. But the biggest difference from Earth lies within Venus’s atmosphere. The clouds on Venus, which hide its surface, are 
+made not of water like they are on Earth, but rather of concentrated sulfuric acid —
+essentially battery acid. About 700 million years ago, just before life was diversifying on Earth, Venus experienced tremendous volcanic activity, flooding the surface with new lava 
+and filling the atmosphere with greenhouse gases, causing a runaway greenhouse effect .   
+Volcanoes continue to erupt on Venus.  
+Only radar can probe through the thick clouds in the Venusian atmosphere to make 
+observations of the surface. Radar data collected over many years from multiple sources 
+were used to create the beautiful, color-coded portrait of Venus’s surface, above right. 
+ 
+This striking image, right, is 
+a composite of the complete 
+radar image collection of 
+Venus’s surface, obtained 
+by NASA’s Magellan 
+mission.  The image uses 
+simulated colors based on 
+actual color images recorded 
+by the Soviet Venera 13 and 
+14 spacecraft.  
+Image Credit: NASA/JPL -Caltech  
+ 
+The Magellan spacecraft was launched aboar d Space Shuttle Atlantis in May 1989 and 
+
+
+--- Page 14 (text layer) ---
+Our Solar System  
+ 14 began mapping the surface of Venus in September 1990. Magellan spacecraft operations 
+ended on October 12, 1994, when radio contact was lost with the spacecraft during its 
+controlled descent into the deeper portions of the Venusian atmosphere.   
+ 
+ 
+Impact craters on Venus  - Image credit:  NASA/JPL  
+ Was there life on Venus? There is evidence that when it was young, Venus almost 
+certainly had liquid water—an essential ingredient for life on Earth. Was Venus habitable in 
+the past? Is it habitable now? Finding evidence of past life will be a big challenge, as 
+massive volcanic activity caused a resurfacing of 80% of the planet  within the last billion 
+years. But if samples are someday returned from the ancient surface of Venus, they could be very revealing!  
+ 
+As for life on Venus now, some scientists speculate that single-celled organisms could 
+actually survive within the harsh yet stable atmosphere, living off the sulfur chemistry there! 
+ 
+Venus Details  
+Diameter  12,104 km  Rotational Period  243 days  (clockwise) 
+Distance from Sun  108,200,000  km  (.7 AU ) Orbital Period  225 days  
+Number Moons  0 Atmosphere  Thick sulfuric clouds  
+Temperature  480C ° Axial Tilt  177 degrees (retrograde)  
+Mass  4.868×1024 kg 
+About 82% of Earth’s   Magnetic Field  Nearly none  
+
+
+--- Page 15 (text layer) ---
+  Our Sun    
+ 15 Earth  
+You are here! 
+ 
+     
+Image Credits:   NASA/NOAA/GSFC/Suomi NPP/VIIRS/Norman Kuring  
+ 
+Home. These beautiful images are each composites of six separate orbits taken on Jan. 
+23, 2012 by the Suomi National Polar-orbiting Partnership satellite. Compiled by NASA 
+Goddard scientist Norman Kuring, the images have the perspective of a viewer looking 
+down from 12,742km (7,918 miles) above the Earth's surface. 
+ 
+In December of 1968, the Apollo 8 crew flew from the Earth to the Moon and back again. 
+Frank Borman, James Lovell, and William Anders were launched atop a Saturn V rocket, 
+circled the Moon ten times in their command module, and returned to Earth on December 
+27. As the Apollo 8 command module rounded the farside of the Moon, the crew could 
+look toward the lunar horizon and see the Earth appear to rise. The famous picture that resulted, below left, shows a distant blue Earth above the Moon's limb, and was a 
+marvelous gift to the world. 
+ 
+      
+Image credi ts:  NASA  
+
+
+--- Page 16 (text layer) ---
+Our Solar System  
+ 16                    
+Image Credit : Jeffrey R. Hapeman  of Lac du Flambeau, Wis.                                       Diagram  courtesy  of NASA  
+ 
+For those who have seen them, the Aurora Borealis and Aurora Australis are spectacles to 
+remember. Aurorae are caused by currents of energetic charged particles in Earth's 
+magnetosphere flowing through the upper atmosphere. The interaction of the solar wind 
+with Earth's magnetosphere drives these currents. The more active the Sun, especial ly 
+during the peak of its 11-year solar cycle, the more charged particles flow to Earth’s magnetic poles. These charged particles eventually collide with gas molecules in the 
+upper atmosphere, causing them to ionize (lose electrons) and emit colored light.  
+ 
+Earth’s thin atmosphere is all that 
+stands between life on Earth and 
+the cold, dark void of space. Our 
+planet's atmosphere has no clearly 
+defined upper boundary but 
+gradually thins out into space. 
+The layers of the atmosphere have 
+different characteris tics, such as 
+protective ozone in the stratosphere and weather in the 
+lowermost layer. The setting Sun 
+seen through Earth’s atmosphere 
+is featured in this image, which 
+was photographed by the crew of 
+the International Space Station in 
+2008.  
+Image credit:   NASA  
+ 
+Earth Details  
+Diameter  12,742 km Rotational Period  ~24 hours  
+Distance from Sun  149,600,000 km (1.0 AU) Orbital Period  ~365.25 days  
+Number Moons  1 Atmosphere  Nitrogen, oxygen 
+Temperature  -89C°  to 70 C°   Axial Tilt  23.4 degrees  
+Mass  6 × 1024 kg Magnetic Field  yes 
+
+
+--- Page 17 (text layer) ---
+  Earth  
+ 17 Earth’s Moon  
+ 
+Image Credit:  NASA  
+ 
+ONE SMALL STEP FOR MAN…one giant leap for mankind! There is only one world in 
+our solar system besides Earth on which humans have walked—the Moon. The image 
+above was taken by astronauts on the Moon during the Apollo 17 mission in December 
+1972. Astronaut Harrison Schmitt is shown preparing to take a soil sample. The later 
+Apollo missions, including 17, had a strong scientific f ocus. A few days after this image 
+was taken, humanity left the Moon and has yet to  return. Note the Sun in the upper left. It 
+is daytime on the Moon, but with no air to scatter the light, the sky remains black.  
+ 
+ 
+Side of the Moon facing Earth 
+Image Credi t: NASA/JPL/Galileo Spacecraft   
+ 
+Far Side of the Moon 
+Image credit:  NASA  
+ 
+Virtually everyone can see the Moon, no matter where on Earth they are. Most  people 
+know that the Moon’s gravitational pull on the Earth causes our ocean tide s. But did you 
+know that missions to the Moon have discovered the existence of Moonquakes, as well as 
+wate r ice hidden in the permanently shadowed craters at the lunar poles?  
+ The lunar samples brought back by Apollo astronauts have shed new light on how the 
+Moon was formed—it is now thought that roughly 4.5 billion years ago, a rocky impactor about the size of Mars hit the young Earth. The debris scattered by that collision orbited 
+the Earth briefly (only about a month!) before coalescing into the Moon.  The Moon was 
+further struck by a heavy bombardment of asteroids around 3.9 billion years ago , causing 
+much of the cratering now seen.   The dark blotches on the Earth-facing side of the Moon are lunar mare, essentially large, dark pla ins of basalt formed by volcanic eruptions.
+ 
+
+
+--- Page 18 (text layer) ---
+Our Solar System  
+ 18  
+Image Credit  Akira Fujii/Ciel et Espace  Why does the Moon have a reddish 
+hue in these images of a lunar eclipse? 
+It is the same reason that the Sun 
+appears reddish during a sunset: 
+scattered light. During a lunar eclipse, 
+the Earth is situated directly between 
+the Sun and the Moon. The only 
+sunlight reaching the Moon travels 
+through dense layers of Earth's 
+atmosphere. Atmospheric particles 
+preferentially scatter out shorter 
+(bluer) wavelengths leaving only the 
+longer (redder) wavelengths to refract 
+(bend) through the atmosphere and 
+illuminate the Moon. 
+Meteors and Impacts  
+ 
+Image Credit:  Wally Pacholka/AstroPics.com   
+The meteor fireball on the left, caused 
+by a Geminid meteor, is one of the 
+largest ever recorded. Most meteor 
+showers result from debris that “boils” 
+off a comet when it passes close to the 
+Sun. When Earth passes through the 
+debris, these specks may enter our 
+atmosphere and we see a meteor 
+shower! 
+ 
+Though most particles which cause our 
+brilliant meteors are about the size of a grain of sand, t he Geminids are different. Their 
+source of meteors is not a comet, but a strange, rocky object thought to be either an 
+asteroid or an extinct or dormant comet.  
+ Meteors that are larger than a grain of sand (often chunks from asteroids) can sometimes 
+reach the Earth’s surface, as  did the rock on the left image below. This one landed  in the 
+Sudan desert. Meteors that make it to the ground  are called meteorites; large ones can 
+leave impact craters  (2 images below right). 
+             
+Image Credit:  NASA/JPL  
+
+
+--- Page 19 (text layer) ---
+  Our Sun    
+ 19 Mars  
+The Red Planet 
+ 
+     Image Credit: NASA/Mars Global Surveyor  Mars has been the subject of  intense study 
+for centuries. Its exploration has been 
+wrought with success and failure, and has 
+witnessed a dramatic evolution in 
+knowledge. Speculations about the famous 
+“irrigation canals” on Mars in the late 
+1800s were finally put to rest by images 
+returned from NASA’s Mariner 4 mission 
+in 1965. Revealing icy deserts, impact 
+craters and a barren landscape, they 
+dispelled thoughts of thriving, agricultural 
+civilizations. In the 1970s NASA’s Viking 
+mission carried out life-detection 
+experiments on the surface. The results, 
+suggesting a lifeless planet, raised more 
+questions than answers.  
+ 
+The next two decades were met with struggle as several spacecraft from the US, Japan, 
+Europe, and former USSR were lost.  Success resurfaced in the late 1990s with the ESA 
+orbiter Mars Express and NASA’s Pathfinder rover, and Global Surveyor and Odyssey 
+orbiters—heralding the mantra “Follow the Water.” In 2004, NASA’s twin rovers Spirit 
+and Opportunity began work. NASA’s Mars Reconnaissance Orbiter and Phoenix lander 
+followed. As data from these robotic explorers piled up, so did evidence that Mars 
+preserves a record of surface liquid water and possibly once-habitable environments. 
+NASA’s Mars Science Laboratory, which arrived in 2012, carried an unprecedented suite of instruments that can bring us one step closer to determining if life ever started on 
+Mars. Its Curiosity rover is now offering a human-like perspective to martian landscapes.  
+ 
+ESA's Mars Express obtained this view 
+of an unnamed impact crater located on 
+Vastitas Borealis, a broad plain that 
+covers much of Mars' s far northern 
+latitudes. The circular patch of bright material is residual water ice. The 
+colors are very close to natural, but the 
+vertical relief has been exaggerated 
+three times. This patch of ice is present 
+all year, remaining after frozen carbon 
+dioxide overlaying it disappears during 
+the martian summer. 
+            
+                 Image Credit: ESA/DLR/FU Berlin (G. Neukum)   
+  
+
+
+--- Page 20 (text layer) ---
+Our Solar System  
+ 20  
+Image Credit: NASA/JPL/University of Arizona/Science 
+Photo Library  NASA’s Mars Reconnaissance Orbiter space-
+craft took this spectacular image of Victoria 
+Crater, an impact crater near the equator of Mars 
+where hematite mineral deposits suggest Mars 
+had a wet past. Layered sedimentary rocks are 
+exposed along the inner wall of the crater, and 
+the floor of the crater is occupied by a striking 
+field of sand dunes. NASA’s twin Mars 
+Exploration Rovers, Spirit and Opportunity, have 
+been operating on the surface of Mars in search 
+of answers about the history of water on the Red 
+Planet since 2004 (unfortunately, Spirit was 
+turned off ). Five days before this image was 
+taken in September 2006, the ‘Opportunity’ rover arrived at the rim of Victoria Crater, after a 
+drive of more than 9km! It explored within the 
+crater, staying at the site for about a year. The 
+rover can actually be seen in this image as a 
+small dot at the ‘ten o'clock’ position along the 
+crater rim.  
+ 
+ 
+Image Credit: NASA/JPL -Caltech/Arizona State University, Thermal Emission Imaging System (THEMIS ) 
+ 
+Chasma Boreale, pictured above, is a long valley that cuts deep into the north polar ice 
+cap of Mars. Where the ice cap has retreated, sand from earlier, less icy climatic regimes 
+is exposed. Winds have shaped them into dunes. In 2007, NASA’s Phoenix mission 
+landed in the northern arctic plains of Mars to study th e history of water and potential 
+habitability in the ice-rich soil. Phoenix verified the presence of water ice in the martian sub-surface, and found calcium carbonate, an indicator of a less acidic (more potentially 
+habitable) planet in the past. Phoenix even observed snow falling from clouds in the 
+martian atmosphere! This eerily Earth -like vista was made by combining data from 
+NASA's Mars Odyssey and Global Surveyor orbiters. 
+
+
+--- Page 21 (text layer) ---
+  Mars  
+ 21  
+Image Credit: NASA/JPL -Caltech/University of Arizona   
+Image Credit: NASA  
+ 
+The intriguing image on the left depicts the Nili Fossae region of Mars, which occupies 
+an area between a large volcano and an ancient impact basin. It is home to a collection of 
+curved troughs cutting about 500m into the crust. The European spacecraft Mar s Express 
+detected clay minerals there, good news for astrobio logists because the clays suggest the 
+presence of water at some point in the past. Even better, the minerals also suggest that the 
+water collected in pools on the surface, a possibly comfortable habitat for life.  
+ 
+Signs of water on Mars, above right, were discovered some time ago but scientists had no 
+idea about much of the mineral composition of Mars. A recent di scovery suggests that 
+much of the planet was covered with water around 4 billion years ago.   
+ 
+Astrobiologists have also detected the presence of methane gas in the atmosphere of 
+Mars, indicating that the planet is indeed “alive,” either in a geologic or biologic sense. It 
+is still unclear whether the methane was produced by purely geologic processes such as 
+the oxidation of iron, or by microscopic organisms living in the martian sub-surface. 
+Finding plumes of it that persist only during the martian spring and summer indicates that 
+some ongoing, seasonal process is releasing the gas. Methane-producing microbes were one of the earliest forms of life on Earth, so if there is life on Mars today, it could be 
+making the methane from carbon dioxide in the martian atmosphere.  
+ 
+ It may look like a familiar sight, but 
+this sunset is not from Earth. This 
+lovely, otherworldly evening was 
+captured by the rover Spirit in 2005 as 
+it peered toward the western sky from 
+its perch in Gusev Crater on Mars. Like 
+no other spacecraft, the Mars 
+Exploration Rovers have afforded us a 
+perspective much like our own on 
+another world, making Mars feel that 
+much more like home.  
+ 
+Image Credit: NASA/JPL/Texas A&M/Cornell  (true color)  
+ 
+
+
+--- Page 22 (text layer) ---
+Our Solar System  
+ 22 Mars Details  
+Diameter  6780 km Rotational 
+Period  24.7 hrs  
+Distance from Sun  227,900,000 km ( 1.5 AU) Orbital Period  687 days  
+Number Moons  2 Atmosphere  Thin carbon dioxide  
+Temperature  -143C °  to 27 C° Axial Tilt  25 degrees  
+Mass  6.4 x 1023km (about 10% 
+of Earth’s)  Magnetic Field  Virtually none  
+ 
+ 
+Mars’ s Moons – Phobos, Deimos  
+ 
+ 
+Image Credit: NASA/JPL   
+On the left is tiny (22.2 km) but 
+fearsome Phobos, taking its name from 
+the Greek word for fear.  It is one of two 
+moons of Mars -- and this moon is 
+doomed!  Phobos orbits very close to 
+Mars, and the strong gravitational (i.e. 
+tidal) forces are taking their toll. In about 100 million years, Phobos will likely be 
+shattered by the stress of these relentless 
+tidal forces. The debris may form a ring 
+around Mars. 
+ 
+ 
+ 
+ 
+Deimos, named for the Greek 
+word flight or panic and looking 
+potato-like on the right, is the 
+smaller (~12km) and outer 
+moon of Mars. Both moons are 
+likely captured asteroids 
+originating in the main asteroid 
+belt between Mars and Jupiter, 
+or perhaps from even more 
+distant reaches of the solar 
+system.  
+Image Credit: NASA/JPL  
+
+
+--- Page 23 (text layer) ---
+  Our Sun    
+ 23 Asteroid Belt  
+ 
+Image credit:  Wikipedia Commons  
+ 
+Image Credit: NASA/JPL/USGS 
+ 
+There are millions of asteroids, ranging in diameter from dust particles to 950km. Like 
+most other small solar system bodies, asteroids are thought to be the shattered remnants 
+of planetesimals, bodies within the young Sun’s solar nebula that never grew large 
+enough to become planets.  Most known asteroids orbit in the main asteroid belt between 
+the orbits of Mars and Jupiter or co-orbital with Jupiter. However, other orbital families exist with significant populations, including the near-Earth asteroids.   In the image above 
+right, Ida and Gaspra (superimposed with each other) are two such rocky, metallic 
+objects. Shown here to the same scale, Ida is about 30km long, and Gaspra about 17km.  
+ 
+Artistic impression courtesy  NASA   
+Asteroids have played a role in the 
+evolution of life on Earth. 
+Sometimes the orbits of asteroids 
+bring them close to Earth and 
+collisions ensue. There is strong 
+evidence that the mass extinction 
+that killed the dinosaurs 66 million years ago was caused by an asteroid 
+at least 12km wide. If that had not 
+happened, would humans be 
+walking the Earth today?  
+ 
+
+
+--- Page 24 (text layer) ---
+Our Solar System  
+ 24 Ceres (image on right) is the largest 
+asteroid and the only dwarf planet in the 
+inner solar system.  It is a rocky, icy body 
+only about 950 km in diameter though it 
+contains about one-third of the mass of 
+the asteroid belt.  Giuseppe Piazzi 
+discovered Ceres in 1801. It was initially 
+classified as a planet.  As other objects 
+were discovered in the area it was realized 
+that Ceres represented the first of a class 
+of many similar small bodies. 
+Ceres as seen by the Dawn spacecraft.  NASA  
+NASA’s unmanned Dawn spacecraft, launched on 27 September 2007, was tasked with 
+the exploration and study of Vesta  and Ceres, the two most massive objects of the 
+asteroid belt. The probe entered orbit around Vesta on July 16, 2011 and left Vesta on 
+September 5, 2012 on a course for Ceres, which is started orbiting in March 2015. 
+ 
+ 
+Image Credit:  JAXA  (Japan Aerospace Exploration Agency) / Hayabusa Mission  
+ 
+Asteroid Itokawa, photo above, shows features common to many asteroids – indications 
+of pieces from previous asteroid collisions that formed when gravity pulled the small bits 
+together. Note the lack of impact craters and the rough surface studded with bou lders. 
+
+
+--- Page 25 (text layer) ---
+  Our Sun    
+ 25 Jupiter  
+King of the Planets 
+ 
+ 
+Image Credit:  N ASA  
+Image Credit: Travis Rector (U. Alaska, Anchorage), Chad Trujillo 
+and the Gemini Altair Team, NOAO/AURA/NSF  (false color)  
+ 
+Jupiter, the most massive planet in our solar system—with 79 known moons and an 
+enormous magnetic field (magnetosphere) — forms a kind of miniature solar system. 
+Gaseous Jupiter resembles a star in composition, but it never grew massive enough to 
+start the fusion process. Several of its moons are of interest to astrobiologists searching 
+for life elsewhere in the solar s ystem. 
+ The image above left shows Jupiter’s true colors. The right image has been color-coded 
+to show cloud height from high altitude (white) through mid -range (blue) to low altitude 
+(red).  
+  
+ 
+Image Credit: JPL/NASA  Jupiter’s Great Red Spot, a vast cyclone located 
+in Jupiter’s southern hemisphere, is about three 
+times the diameter of Earth and is visible even 
+through small backyard telescopes. The colors 
+change as different chemicals and gases are 
+churned up from the bottom layers to the 
+“surface” of the gaseous planet. The winds at the 
+edge of the spot can reach up to 550km per hour. 
+This long-lasting storm was probably first 
+observed by astronomer Giovanni Cassini in the 
+late 1600s. It was not seen  up close until NASA’s 
+Pioneer 10 spacecraft made its flyby in 1974.  
+ 
+ 
+
+
+--- Page 26 (text layer) ---
+Our Solar System  
+ 26 Everything visible in this image is a 
+cloud. Unlike on Earth where only 
+water condenses to form clouds, 
+Jupiter's clouds are made of 
+ammonia, hydrogen sulfide, and 
+water. Jupiter's many jet streams 
+shear clouds apart, forming 
+characteristic streaks. The fastest jet 
+stream winds blow eastward at 
+480km per hour. The most energetic 
+features are the small, bright clouds 
+to the left of the Great Red Spot—
+they grow and disappear over a few 
+days and even generate lightning. 
+The striking colors in this image of   
+ 
+Image Credit: NASA/JPL/Space Science Institut e 
+Jupiter, taken by NASA’s Cassini spacecraft in 2000, are very close to the way the 
+human eye would see them.  
+ 
+Jupiter Details  
+Diameter  139,822 km Rotational Period  9.8 hrs  
+Distance from Sun  778,500,000 km (5.2 AU ) Orbital Period  11.9 yrs 
+Number Moons  63 Atmosphere  Hydrogen, helium  
+Temperature  -145C ° Axial Tilt  3 degrees  
+Mass  1.9 ×1027 kg 
+(about 318 Earths)  Magnetic Field  Strong & complex  
+ 
+Jupiter’s 79 Moons, including Io, Europa, Ganymede, Callisto  
+ 
+ 
+ 
+Galileo  discovered Jupiter’s 4 largest moons in 
+1610, when he used the newly invented telescope 
+to view our night sky.  His sketches on the right 
+show how the orbiting moons appeared on 
+subsequent days.  
+
+
+--- Page 27 (text layer) ---
+  Jupiter  
+ 27 Io 
+ 
+Image C redit: NASA/JPL/University of Arizona  This image shows Io, the closest  to Jupiter of its 
+moons and one of  the most interesting. About the 
+size of Earth’s Moon, Io is the most volcanically 
+active body in the solar system. Io’s volcanoes 
+erupt massive volumes of silicate lava, sulfur, and 
+sulfur dioxide hundreds of kilometers above the 
+surface, constantly changing Io's appearance. The 
+irregular depressions on the surface, known as 
+paterae, often correspond to active volcanic centers 
+and have many straight edges and sharp angles, 
+suggesting they are related to fractures in Io's 
+crust. In many cases lava can be seen to erupt from 
+them.  Io’s intense volcanism is a result of 
+frictional heating of its interior due to bending and 
+curving caused by the gravitational pull of Jupiter.  
+ 
+Europa  
+ 
+Image Credit: NASA/JPL/DLR  
+Image Credit: 
+NASA/JPL/University of 
+Arizona  
+Above are two views of Jupiter's icy moon Europa, about the size of Earth’s Moon. The 
+left side shows the approximate natural color appearance, while on the right is a false-
+color composite including infrared data. Dark brown areas represent salty material 
+derived from the interior. Long, dark lines are fractures in the crust, some more than 
+3,000km long!   
+Habitat for life?  Europa excites astrobiologists because of its potential to host life in the 
+100km thick liquid water ocean that scientists think exists beneath its icy exterior.  Europa 
+has many volcanoes, and entire ecosystems have been found thriving near volcanoes (hydrothermal vents) on Earth’s seafloor, which serve as analogues to what may exist on 
+Europa.  Europa’s ocean is covered with a shell of ice about 20km thick which forms the 
+outer surface of the moon. Jupiter’s gravitational pull raises and lowers the sea beneath 
+the ice, causing extreme tides. These in turn keep Europa’s icy surface in motion, and are 
+probably the cause of the cracks and streaks. The same gravitational pull that affects the 
+
+
+--- Page 28 (text layer) ---
+Our Solar System  
+ 28 ocean tides is also thought to heat Europa’s core, keeping the water from freezing 
+entirely, and driving geological activity. With both liquid water and a stab le source of 
+energy present, it is no wonder astrobiologists think Europa could be a habitat for extraterrestrial life!  
+Ganymeade 
+ 
+Image credit:  NAS A Ganymede is the largest moon in the solar system, 
+8% larger than the planet Mercury! Ganymede is 
+composed of about equal amounts of  silicate 
+rock and water ice, with an iron-rich, liquid core. A saltwater ocean is believed to exist nearly 
+200km below Ganymede's surface, sandwiched 
+between layers of ice.  The satellite has a 
+thin oxygen atmosphere that includes O, O
+2 and 
+possibly O 3 (ozone). 
+ 
+Ganymede’s surface is composed of two main types 
+of terrain. Dark regions, saturated with impact craters and dated to four billion years  
+ago, cover about a third of the satellite.  Lighter regions, crosscut by extensive grooves 
+and ridges and only slightly less ancient, cover the remainder. The cause of the light 
+terrain's disrupted geology is not fully known, but it was likely the result of tectonic 
+activity brought about by the gravitation forces (i.e. tidal heating) by Jupiter.    
+ Ganymede is the only satellite in the solar system known to possess a magnetosphere 
+(protective magnetic shield) , likely created through convection within the liquid iron 
+core. The meager magnetosphere is buried within Jupiter's much larger  magnetic 
+field and connected to it through open field lines.  Whether the satellite has  an ionosphere 
+associated with its atmosphere is unresolved.  
+Callisto  
+ 
+Image Credit: NASA  Callisto, about the size of Mercury, has the most 
+heavily cratered and oldest surface in the solar 
+system. NASA’s Galileo mission (1989-2003) 
+observed Callisto, revealing evidence for a 
+subsurface saltwater ocean—the same sort of 
+evidence for the ocean scientists think exists on Europa. Can life emerge and thrive in such cold, 
+lightless oceans? If there’s life in one of these two 
+oceans, it is more likely to be Europa’s. The ocean 
+there receives more heat because of Europa’s 
+stronger gravitational relationship with Jupiter. 
+Callisto’s ocean, if it exists, is so deep that dense, 
+high-pressure phases of ice will form at the ocean 
+bottom, possibly blocking liquid water and rock 
+from interacting directly to create conditions for life . 
+
+
+--- Page 29 (text layer) ---
+  Interplanetary Dust     
+ 29 Saturn 
+Ringworld 
+ 
+ 
+Image Credit: NASA/JPL/Space Science Institute  
+ 
+Gaseous Saturn is the second largest planet in the solar 
+system, behind Jupiter.  Despite their imposing 
+appearance, the glorious rings around Saturn are only 
+about 10m thick! The rings consist of billions of 
+individual particles of mostly water ice. Interactions 
+with the gravitational field of Saturn’s moons create 
+waves, wakes, and other structures. Tiny moons orbit 
+within gaps in the rings, keeping the gaps open. 
+Scientists still are not sure exactly how old the rings are 
+nor how they were formed. But it is clear that the rings 
+we observe today were not all created in the same way.   
+ 
+ 
+NASA’s Cassini mission discovered that a great plume of icy material emanating from     
+Saturn’s moon Enceladus is a major source of material for the expansive E ring. Cassini 
+has also discovered new ringlets, a moon that is stealing particles from the narrow F ring, 
+and features within the rings shaped like straw and rope. 
+ 
+ 
+Image credit: NASA/JPL -Caltech/Keck   
+The artist's conception on the left 
+shows a nearly invisible ring 
+around Saturn - the largest of the 
+giant planet's many rings. The new 
+ring was discovered by NASA's 
+Spitzer Space Telescope in 2009. 
+ 
+
+
+--- Page 30 (text layer) ---
+Our Solar System  
+ 30  
+ 
+ 
+Image Credit: NASA/JPL/ASI/University of 
+Arizona/University of Leicester  (false color)  Saturn, though far from the Sun, is still 
+subject to the Sun’s storms. This false-color 
+composite image, constructed from data 
+obtained by NASA's Cassini spacecraft, 
+shows the glow of aurorae streaking out 
+about 1,000km from the cloud tops of 
+Saturn's south polar region. Shown in green, 
+the aurorae occur when energetic, charged 
+particles from the Sun, carried by the solar 
+wind, interact with Saturn’s magnetic field.  
+The dark spots and banded features are 
+clouds and small storms that outline Saturn’s 
+deeper weather systems and circulation 
+patterns. 
+ 
+ 
+Image Credit: NASA/JPL/Space Science Institute.  
+ 
+Saturn’s stunning ring system glows with scattered sunlight in this image captured by 
+NASA’s Cassini spacecraft as it passed behind the planet in 2006. This image also shows 
+Earth—it is the just-barely-visible white dot at the ten o'clock position between the bright 
+main rings and the thinner, light brown ring.  
+ 
+Saturn Details  
+Diameter  116,464 km Rotational Period  ~11 hrs 
+Distance from Sun  1,433,000,000 km (9.5 AU ) Orbital Period  29.5 yrs 
+Number Moons  62+ Atmosphere  Hydrogen, helium  
+Temperature  -178C ° Axial Tilt  27 degrees  
+Mass  5.7 x 1026 kg 
+(about the same as Earth)  Magnetic Field  Similar to Earth’s 
+
+
+--- Page 31 (text layer) ---
+  Saturn  
+ 31 Saturn’s  82 Moons,  including Titan, Enceladus, Iapetus, 
+Hyperion, Phoebe 
+Saturn has at least 62 moons, ranging in size from just under 3km to about 5000km. Two 
+of the moons, Titan and Enceladus, are of great interest to astrobiologists: Titan provides 
+an analogue to the chemistry of early Earth, and Enceladus’ s inner heat and jets of ice 
+and water vapor could be a habitat for extraterr estrial life. 
+ 
+Titan (and Tethys)  
+ 
+ 
+Image Credit: NASA/JPL/Space Science Institute  Titan is the largest of the moons 
+orbiting Saturn. Until very recently, our 
+view of Titan was much as it is 
+depicted here: a hazy, orange sphere. 
+NASA’s Cassini mission changed all 
+that. Cassini and the Huygens probe it 
+launched into Titan’s surface relayed 
+data back to Earth about the atmosphere 
+and weather it encountered. Revealed 
+(see images below) was a world that 
+looked a lot like home, with surface 
+features like riverbeds, vast deserts 
+covered in dunes, and even lakes filled 
+not with water, but liquid 
+hydrocarbons—much like the fuel we 
+put into our cars! These lakes are the 
+first open bodies of liquid found 
+anywhere besides Earth. 
+Also in the above portrait is one of Saturn’s smaller moons, Tethys.  Tethys is thought to 
+be made mostly of water ice.  Its dominating surface feature is a giant impact cr ater 
+called Odysseus Crater, which is two-fifths the diameter of Tethys itself.  
+ 
+Image Credit: NASA/JPL/University of Arizona (false colors)  
+NASA’s Cassini spacecraft peered through Titan’s atmosphere to obtain the false-color 
+views (above) of its surface.  Despite its distance from the Sun, Titan is arguably one of 
+
+
+--- Page 32 (text layer) ---
+Our Solar System  
+ 32 the most Earth-like worlds we have found to date. With its thick atmosphere and complex, 
+carbon-rich chemistry, Titan resembles a frozen version of Earth several billion years ago, 
+before life began pumping oxygen into our atmosphere. Titan's surface is shaped by 
+rivers and lakes of liquid ethane and methane, which form clouds and occasionally rain 
+from the sky as water does on Earth. Winds sculpt vast regions of dark dunes that girdle 
+the equator and low latitudes. Volcanism may occur as well, b ut with liquid water lava 
+instead of  molten rock lava like on Earth. 
+Enceladus  
+ 
+Image Credit: NASA/JPL/Space Science Institute  
+(false  color)   
+Image Credit: NASA/JPL/Space Science Institute  
+(false color)  
+ 
+Close fly-bys of NASA’s Cassini spacecraft revealed an array of narrow linear cracks 
+straddling Enceladus’s south pole, a region of relatively hig her temperature. Visible in 
+the false-color composite image on the left, they are called ‘tiger stripes,’ and are fissures in the surface where jets are spraying icy particles, water vapor, and organic compounds. 
+Many jets erupt all along the tiger stripes, and the vigor of individual jets can vary with 
+time. Some scientists think that the warmer the temperatures are at the surface, the greater 
+the likelihood that jets are erupting from liquid. If true, could this liquid subsurface environment enriched with organic molecules be a possible habitat for extraterrestrial life? 
+The image above right shows, in spectacular false-color, a view of jets on the surface of 
+Enceladus spurting their ice particles, water vapor, and trace organic molecules  into space! 
+ 
+Iapetus  
+Iapetus has been called the ‘yin and yang’ of Saturn’s moons because the surface of one 
+of its hemispheres is dark, about as reflective as coal, while the other is much brighter.  
+The original dark material is believed to have come from outside Iapetus, but now it 
+
+
+--- Page 33 (text layer) ---
+  Saturn  
+ 33 consists of lag from the sublimation of ice from the warmer areas of Iapetus's surface. It 
+contains organic compounds similar to the substances found in primitive meteorites or on 
+the surface of comets.  
+ 
+Image Credit: NASA/JPL/Space Science Institute   
+Image credit: NASA/JPL/Cassini -Huygens Mission  
+ 
+In the image above left, a huge impact crater can be seen in the south, spanning a 
+tremendous 450 kilometers. It appears superposed on an older crater of similar size. The 
+dark material mentioned previously is seen increasingly coating the easternmost part of 
+Iapetus, darkening craters and highlands alike. Close inspection indicates that the dark 
+coating typically faces the moon's equator and is less than a meter thick. A leading 
+hypothesis is that the dark material is mostly dirt leftover when relatively warm but dirty 
+ice sublimates. An initial coating of dark material may have been effectively painted on 
+by the accretion of meteor-liberated debris from other moons. 
+ 
+The image above right shows a prominent feature of Iapetus -- an equatorial ridge that 
+runs along the center of Cassini Regio. It was discovered when the Cassini spacecraft 
+imaged Iapetus in 2004. Peaks in the ridge rise more than 20  km above the surrounding 
+plains, making them some of the tallest mountains in the Solar System.  
+Hyperion 
+ 
+Sponge or moon? This stunning image of  Hyperion, following, has been enhanced to 
+reveal crisp details across the strange, tumbling moon’s surface. Scientists think 
+Hyperion's somewhat potato-shaped appearance can be attributed to its unusually low 
+density for such a large object, giving it weak surface gravity and high porosity. Hyperion’s craters are particularly deep and there appear  to have been landslides inside 
+many of the larger ones. The result is a curious look, somewhat like the surface of a sponge or a wasp nest. Many of the crater walls on Hyperion are bright, suggesting an 
+abundance of water ice. 
+
+
+--- Page 34 (text layer) ---
+Our Solar System  
+ 34  
+Image Credit: NASA/JPL/Space Science Institut e 
+ 
+Phoebe  
+ 
+Image Credit: NASA/JPL/Space Science Institute   
+Phoebe's orbit around Saturn is in the opposite 
+direction than the orbits of most objects in the solar 
+system. This suggests Phoebe was a captured object, 
+trapped by Saturn’s gravitational pull and brought 
+into orbit. Scientists think Phoebe might have been 
+part of an ancestral population of small, icy bodies 
+called Centaurs which originated in the outer solar 
+system but migrated inward. Centaurs are of special 
+interest to scientists because they are thought to be 
+primordial objects—leftovers of solar system 
+formation that never coalesced  into a planet. If 
+indeed it is a captured Centaur, then images and scientific data of Phoebe taken by NASA’s Cassini 
+spacecraft give scientists the first opportunity to 
+study a Centaur. 
+
+
+--- Page 35 (text layer) ---
+Our Solar System       
+ 35 Uranus  
+God of the Sky 
+ 
+  
+ 
+Uranus, third largest planet in our solar 
+system, was discovered by astronomer 
+William Herschel in 1781, and shares its 
+name with the Greek god of the sky. Most 
+of what we know about Uranus came from 
+the NASA Voyager 2 spacecraft’s flyby of 
+the planet in 1986. Uranus has nine major, 
+though extremely faint, rings and 27 
+known moons. 
+ 
+ 
+ 
+Image Credit:  NASA/JPL (left ) 
+ 
+ 
+ 
+ 
+This image of the gas giant, right, taken in 
+infrared light, reveals cloud structures not 
+normally visible to human eyes. Methane gas 
+in the upper atmosphere absorbs red light, 
+giving the planet its blue-green color. Uranus 
+is spinning on its side, probably because of a 
+collision with a large object early in the solar 
+system's history. 
+ 
+ 
+ 
+ 
+Image Credit:  California Association For Research In 
+Astronomy/Science Photo Library (false color)  
+Uranus Details  
+Diameter  50,724 km Rotational Period  ~17 hrs  (on its side)  
+Distance from Sun  2,877,000,000 km 
+(19 AU) Orbital Period  84 yrs 
+Number Moons  27 Atmosphere  Hydrogen, helium, methane 
+Temperature  -224C ° Axial Tilt  98 degrees  
+Mass  8.68 x 1025 kg 
+(14 times Earth)  Magnetic Field  Strong dipole but offset  
+
+
+--- Page 36 (text layer) ---
+Our Solar System  
+ 36 Uranus ’s 27 Moons 
+ 
+Taking its first peek at Uranus, NASA Hubble Space Telescope's Near Infrared Camera 
+and Multi-Object Spectrometer (NICMOS) took the images below 90 minutes apart. 
+Because the human eye cannot detect infrared light, false colors were assigned to the 
+images. 
+ 
+The rings of Uranus are extremely faint in visible light, but quite prominent in the near 
+infrared. The brightest ring, the epsilon ring, has a variable width around its 
+circumference. Its widest and thus brightest part is at the t op in this image. Two fainter, 
+inner rings are visible next to the epsilon ring.  
+ 
+ 
+Image Credit:  NASA/Hubble Space Telescope  (false color)  
+ 
+Eight of the 10 small Uranian satellites 
+discovered by Voyager 2 can be seen in  
+the images above. Their sizes range from 
+about 40km for Bianca to 150km for 
+Puck. These eight satellites revolve 
+around Uranus in less than a day, the 
+inner ones fast er than the outer. Their 
+motion in the 90 minutes between both images is marked in the right panel. The 
+area outside the rings was slightly 
+enhanced in brightness to improve the 
+visibility of these faint satellites.    
+Image credit:  NASA  
+ 
+
+
+--- Page 38 (text layer) ---
+Our Solar System       
+ 38 Neptune  
+Mysterious Cold World 
+ 
+ 
+ 
+Dark, frigid, and whipped by supersonic winds, Neptune is the furthest away from the 
+Sun of the hydrogen and helium gas giants in our solar system. Its thick atmosphere acts 
+as a dark veil to the surface below. We do know that it has at least 14 moons and a faint 
+ring system, and takes almost 165 Earth years to orbit the Sun. Neptune's atmosphere 
+extends to great depths, gradually merging into water and other melted ices over a 
+heavier, approximately Earth -sized, solid core. In 1989, NASA’s Voyager 2 spacecraft 
+tracked a large, oval-shaped storm called the ‘Great Dark Spot’ (similar to the Great Red Spot on Jupiter). In 1994 when NASA’s Hubble Space Telescope imaged the planet, no 
+sign of the Great Dark Spot could be seen. 
+ 
+  
+ 
+Image Credits:  NASA/JPL  
+ 
+
+
+--- Page 39 (text layer) ---
+  Neptune  
+ 39  
+Details  
+Diameter  49,244 km Rotational Period  ~16 hrs  
+Distance from Sun  4,503,000,000 km  
+(30 AU ) Orbital Period  165 yrs 
+Number Moons  13 Atmosphere  Hydrogen, helium, methane 
+Temperature  -210C ° Axial Tilt  28 degrees  
+Mass  1.02×1026kg    
+(about 17 times Earth)  Magnetic Field  Dipole field but at right  
+angles to rotation axis  
+ 
+Neptune ’s 14 Moons, in cluding Triton 
+Triton  
+ 
+Image Credit: NASA/JPL/USGS (false color)  
+ 
+Triton is the largest by far of Neptune’s 14 known moons. This beautiful portrait is a 
+false-color mosaic taken in 1989 by NASA’s Voyager 2 spacecraf t. Triton is one of only 
+a few objects in the solar system known to have a nitrogen-dominated atmosphere (the others are Earth, Saturn's moon Titan, and Pluto). Its frozen surface is made primarily of 
+nitrogen ice, with some methane ice at the so uth pole. Voyager 2 observed active geyser-
+like plumes erupting from the surface, perhaps like those active now on Saturn’s moon 
+Enceladus. Like Phoebe’s orbit around Saturn, Triton orbits Neptune in the opposite 
+direction than the orbits of most objects in the solar system. 
+ 
+  
+The image at left shows Neptune (top) and 
+Triton (background) 3 days after the flyby 
+of Voyager 2. 
+ 
+ 
+ 
+ 
+Image Credit:  NASA  
+
+
+--- Page 40 (text layer) ---
+Our Solar System       
+ 40 The Kuiper Belt, Dwarf Planets, Trans -Neptunian 
+Objects, and Comets 
+ 
+ 
+Artist conception from NASA  
+ 
+The Kuiper belt is a region of the outer solar system, extending from the orbit of Neptune 
+(at 30 AU4) to approximately 50 AU from the Sun.  It is similar to the asteroid belt, 
+though far larger — 20 times as wide. Like the asteroid belt, it consists mainly of small 
+bodies, remnants from the solar system's formation. But while the asteroid belt is composed primarily of rock and metals, Kuiper belt objects are made of rocks and frozen 
+ices such as methane, ammonia and water . The Kuiper belt is home to Pluto, Eris, and 
+other dwarf planets and is a source of comets 
+Dwarf Planets  
+The International Astronomical Union defines a dwarf planet as a celestial body in direct orbit of the Sun
+ that is massive enough for its shape to be controlled by gravitation (i.e. is 
+round), but that unlike a planet has not cleared its orbital region of other objects. There may be hundreds to thousands of dwarf planets in the solar system. We currently have 
+named five: Ceres, Pluto, Haumea, Makemake, and Eris.   Ceres resides in the asteroid 
+belt.  The other 4 are part of the Kuiper belt or are trans -Neptunian objects. 
+        
+ 
+                                         Eris with its moon                Pluto and 4 of its 5 moons.  (NASA)  
+                                                
+4 An AU is the mean distance from the Earth to the Sun, about 150,000,000km.  
+
+
+--- Page 41 (text layer) ---
+  Kuiper Belt, Dwarf Planets, TNOs, and Comets  
+ 41 Trans- Neptunian Objects  
+ 
+A trans-Neptunian object (TNO ) is any object in the solar system that orbits the Sun at a 
+greater average distance than Neptune, hence including objects in the Oort Cloud (more 
+later) as well as the Kuiper belt. 
+ 
+Sedna is a large trans-Neptunian object, which in 2012 was about three times as far from 
+the Sun as Neptune. Like other TNOs its surface is largely a mixture of water, methane 
+and nitrogen ices, though it is also one of the reddest in the solar system. It is probably a dwarf planet. Sedna’s exceptionally long and elongated orbit, taking approximately 
+11,400 years to complete, and distant point of closest approach  to the Sun, at 76 AU, 
+have led some astronomers to conclude that it is the first known member of the inner Oort cloud. 
+ 
+ 
+Earth shown to scale             Credit:  NASA/JPL  
+  
+
+
+--- Page 42 (text layer) ---
+Our Solar System  
+ 42 Comets  
+ 
+ 
+Image credit:  Dan Schechter  
+Image credit:  Takacs – Kiss (Uni. Sydney) – Szabo (Uni. Szeged)  
+ 
+Most comets originate from the Kuiper belt, having been nudged out of their orbits by 
+collisions or the gravity of a passing star.  Would there be life on Earth without comets? 
+There is increasing evidence that water  and organic molecules, both needed for life to 
+form, were partially delivered to the early Earth by comets. Comets are enriched with water ice. Studies of comet Halley in 1986 revealed it to be some of the most organic -rich 
+material ever meas ured in the solar system, NASA’s 2004 Stardust Mission to Comet 
+Wild 2 found a range of complex hydrocarbon molecules, and NASA’s 2005 Deep 
+Impact mission to Comet Tempel 1 discovered a mixture of organic and clay particles. 
+Scientists think comet impacts and deliveries were a common occurrence in the early 
+solar system, but still question if Earth’s water was incorporated as it formed or was a result of cometary impacts after formation was complete.  
+ 
+ 
+Image Credit: NASA/JPL -Caltech/UMD  
+ To the left is a close up of comet 
+Hartley 2. After its encounter with 
+comet Tempel 1 in 2005, NASA 
+recycled its Deep Impact 
+spacecraft and deployed it on a 
+new mission, EPOXI, to 
+investigate comet Hartley 2, 
+hoping to understand how comets 
+form and evolve by comparing 
+EPOXI observations with prior 
+observations of other comets!  
+ 
+The spacecraft made its closest approach with Hartley 2 on November 4, 2010.  
+Preliminary observations show a very active comet! The main region of jet activity originates from the rough lobe on the Sun-facing side of the nucleus. It is powered by the 
+release of subsurface carbon dioxide, propelling water ice and dust into the coma (the 
+comet’s extremely tenuous atmosphere) . As scientists continue to study the data, they are 
+able to track the jets to individual topographic features on the comet’s nucleus. Yet as 
+more observations arise, so do more questions . 
+
+
+--- Page 43 (text layer) ---
+  Where Are We     
+ 43 Interplanetary Dust Particles 
+ 
+ 
+Image Credit: NASA   
+Image Credit:  Pierre Martin of Arnprior, Ontario, Canada.   
+ 
+ 
+ 
+ 
+Space is not empty.  Certainly the smallest “bodies” in the s olar system, interplanetary 
+dust particles, or IDPs, are microscopic. This one (above left) is about a tenth the width 
+of a human hair, and is composed of glass, carbon, and a conglomeration of silicate 
+mineral grains (akin to beach sand). IDPs are bits of material from the early days of our 
+solar system. They can be captured then later ejected by a passing comet. This IDP was 
+collected by an aircraft flying high  in Earth’s atmosphere. In 2004, NASA’s STARDUST 
+mission passed through the tail of comet Wild 2, collecting cometary particles  and 
+returning them to Earth for study. Primitive material like this offers scientists a glimpse 
+into the conditions of the early solar s ystem. 
+ When large versions of these dust particles chance to enter Earth’s atmosphere, they may 
+appear as bright meteors (above right)!  
+ 
+
+
+--- Page 44 (text layer) ---
+Our Solar System  
+ 44 The Sun’s Heliosphere  
+ 
+Image credit:  NASA  
+ 
+The heliosphere is an immense magnetic bubble, originating from the Sun, surrounding 
+and enveloping our solar system and blocking out many of the dangerous cosmic rays 
+coming from our galaxy.  It is depicted here as a bubble in space "blown" into 
+the interstellar medium (the hydrogen and helium gas that permeates the  galaxy) by 
+the solar wind. Although electrically neutral atoms from the interstellar medium can 
+penetrate this bubble, virtually all of the material in the heliosphere emanates from 
+the Sun itself.  
+ 
+For the first ten billion kilometers of its radius, the solar wind travels at over a million 
+kilometers per hour. As it begins to drop out with the interstellar medium, it slows down 
+before finally ceasing altogether. The point where th e solar wind slows down is 
+the Termination Shock. After the Termination Shock is the heliosheath area.  T hen comes 
+the point where the interstellar medium and solar wind pressures balance – the 
+heliopause. The point where the interstellar medium, traveling in the opposite direction, 
+slows down as it collides with the heliosphere is the bow shock.  
+ 
+It was thought for decades that the heliosphere extends in a long comet-like heliotail, but 
+in 2009 data from Cassini and IBEX show a different shape. The heliosheath area is not 
+smooth but filled with magnetic bubbles pushed out by the solar wind.  
+ 
+
+
+--- Page 45 (text layer) ---
+  Kuiper Belt, Dwarf Planets, TNOs, and Comets  
+ 45 Where Are We?  
+ 
+ 
+Our galaxy, the Milky Way, is home to our solar system, Earth, a black hole at its center, 
+plus 200-400 billion stars.  Our solar system is located about two-thirds of the way out from the center of the galaxy, on the inner edge of the Orion Arm. The Sun orbits the 
+center of the galaxy in a galactic year—once every 225-250 million Earth years.  Besides 
+stars, the Milky Way is estimated to have at least 50 billion planets, 500 million of which 
+could be located in the habitable zone of their parent star.  New data suggest there may be 
+up to twice as many free-floating planets (planets no longer attached to their stars) in the 
+Milky Way as there are stars. Our Milky Way is one of around 200 billion galaxies in the observable universe. 
+ 
+           
+Image credi ts:  NASA  
+
+
+--- Page 46 (text layer) ---
+Our Solar System   Our Immense Universe   
+ 46 Our Immense Universe  
+The Hubble Ultra-Deep Field image below is of a tiny region of  space in the 
+constellation Fornax, composited from Hubble Space Telescope data accumulated over a 
+period from September 24, 2003 through January 16, 2004. It is the deepest image of 
+the universe ever taken, looking back approximately 13 billion years (to between 400 and 
+800 million years after the Big Bang). This image was taken in an “empty” section of the 
+sky with a low density of bright stars in the near-field, allowing much better viewing of 
+dimmer, more distant objects. The image contains an estimated 10,000 galaxies.  
+ 
+ 
+Hubble Ultra Deep Field image courtesy of NASA  
+ Our Sun is only one of billions of stars in the Milky Way galaxy.  And the Milky Way is 
+only one of billions of galaxies in the universe. Do you think we are alone? 
+ 
+ 
+The band of light around the Earth is scattered light in the camera . 
+Image Credit:  NASA/Voyager 1   
+In 1990, upon request by Carl Sagan, 
+NASA commanded the Voyager 1 
+spacecraft, having completed its primary 
+mission and now leaving the solar 
+system, to turn its camera around to take 
+a final photograph of Earth across a 
+great expanse of space.  The Pale Blue 
+Dot is this photograph of planet 
+Earth from over 6 billion kilometers 
+away, showing it against the vastness of 
+space.

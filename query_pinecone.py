@@ -51,12 +51,17 @@ def query_pinecone(query_text, top_k=5):
 
     print(f"\nTop {top_k} matches for your query: '{query_text}':\n")
     
-    # If result.matches is a list of matches
     for match in result.matches:
-        print(f"Score: {match.score:.4f}")
-        print(f"Text: {match.metadata.get('text', 'No text found')}")
+        source = match.metadata.get("source", "Unknown source")
+        page = match.metadata.get("page", "Unknown page")
+        text = match.metadata.get("text", "No text found")
+        score = match.score
+        
+        print(f"Score: {score:.4f}")
+        print(f"Source: {source} (Page: {page})")
+        print(f"Text snippet: {text[:300]}...")  # Print first 300 chars as snippet
         print("-" * 80)
 
 if __name__ == "__main__":
-    test_query =  "Explain the phases of the moon"
+    test_query = " explain me about the stars"
     query_pinecone(test_query)

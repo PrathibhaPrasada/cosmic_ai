@@ -63,5 +63,5 @@ def query_pinecone(query_text, top_k=5):
         print("-" * 80)
 
 if __name__ == "__main__":
-    test_query = " explain me about the stars"
+    test_query = " explain me about the mars"
     query_pinecone(test_query)
